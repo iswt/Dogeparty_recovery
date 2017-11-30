@@ -1,0 +1,2 @@
+git+https://github.com/iswt/bip32utils.git
+ecdsa==0.13
