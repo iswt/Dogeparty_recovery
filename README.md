@@ -33,3 +33,11 @@ cd Dogeparty_recovery/
 pip install -r requirements.txt
 ```
 
+## Donate
+
+Did this script help you recover some coins? Awesome. If you feel like 
+leaving a little something you can donate some crypto :)
+
+```
+Bitcoin: 3AXgwnUhEqunTHS7Jzs4iSs2dSd6hu1Cxe
+```
