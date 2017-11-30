@@ -118,12 +118,13 @@ if __name__ == '__main__':
 			output = '\n===================================\n'.join(o)
 		else:
 			output = dpwallet.dump()
+			sys.exit(0)
 	except Exception as e:
 		print('{}: {}'.format(e.__class__.__name__, str(e)))
 		sys.exit(1)
 	else:
 		if args.output_file:
-			f = open(args.ouput_file, 'w+')
+			f = open(args.output_file, 'w+')
 			f.write(output)
 			f.close()
 		else:
