@@ -123,7 +123,7 @@ if __name__ == '__main__':
 		sys.exit(1)
 	else:
 		if args.output_file:
-			f = open(args.ouput_file)
+			f = open(args.ouput_file, 'w+')
 			f.write(output)
 			f.close()
 		else:
