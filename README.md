@@ -40,4 +40,5 @@ leaving a little something you can donate some crypto :)
 
 ```
 Bitcoin: 3AXgwnUhEqunTHS7Jzs4iSs2dSd6hu1Cxe
+Dogecoin: DFveDUu3T4rmtCuqgnenhtSMSrkohTRFVX
 ```
